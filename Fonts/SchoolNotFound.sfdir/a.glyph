@@ -1,0 +1,40 @@
+StartChar: a
+Encoding: 97 97 0
+Width: 300
+VWidth: 0
+Flags: HMWO
+LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+50 140 m 29
+ 50 140 50 10 50 10 c 29
+ 50 10 230 10 230 10 c 29
+ 230 10 230 140 230 140 c 29
+ 230 140 50 140 50 140 c 29
+40 260 m 9
+ 40 260 240 260 240 260 c 25
+ 240 260 240 10 240 10 c 25
+ 240 10 260 10 260 10 c 25
+ 260 10 260 0 260 0 c 25
+ 260 9.88131291682e-324 40 0 40 0 c 25
+ 40 9.88131291682e-324 40 150 40 150 c 25
+ 40 150 230 150 230 150 c 25
+ 230 150 230 250 230 250 c 25
+ 230 250 40 250 40 250 c 25
+ 40 250 40 260 40 260 c 9
+EndSplineSet
+EndChar
